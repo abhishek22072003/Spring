@@ -1,0 +1,10 @@
+package com.springcore.collections;
+
+import java.util.*;
+
+public class Emp {
+	private String empName;
+	private List<String> phones;
+	private Set<String> address;
+	private Map<String, String> courses;
+}
