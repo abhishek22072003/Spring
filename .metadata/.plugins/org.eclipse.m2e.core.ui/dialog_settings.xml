@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Spring\springcore"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,12 +26,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.springjdbc"/>
 			<item value="com.springcore"/>
 		</list>
 		<list key="groupId">
+			<item value="com"/>
 			<item value="com.springcore"/>
 		</list>
 		<list key="artifactId">
+			<item value="springjdbc"/>
 			<item value="springcore"/>
 		</list>
 		<list key="projectNameTemplate">

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+    <libraryInfo home="C:\Program Files\Eclipse Adoptium\jdk-17.0.11.9-hotspot" version="17.0.11"/>
     <libraryInfo home="C:\Eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530" version="21.0.3">
         <bootpath>
             <entry path="null"/>
